@@ -12,7 +12,6 @@
 
 I am a **Site Engineer with 3 years of hands-on experience** in construction site execution, supervision, and coordination. I have worked on residential and commercial projects, ensuring quality workmanship, safety compliance, and timely completion of works. I am passionate about practical engineering, problem-solving on site, and delivering structurally sound and cost-effective solutions.
 
-> 🔹 *This section can be edited later to add more personal or career-focused details.*
 
 ---
 
@@ -28,7 +27,6 @@ I am a **Site Engineer with 3 years of hands-on experience** in construction sit
 * Measurement & Billing (RA Bills)
 * Daily Progress Reporting
 
-> 🔹 *You can add or remove skills based on your actual expertise.*
 
 ---
 
@@ -48,8 +46,6 @@ I am a **Site Engineer with 3 years of hands-on experience** in construction sit
 * Checked quality of materials and workmanship
 * Maintained site records, measurements, and daily progress reports
 * Ensured safety rules and site discipline were followed
-
-> 🔹 *Project names, locations, and values can be added here later.*
 
 ---
 
@@ -76,8 +72,6 @@ I am a **Site Engineer with 3 years of hands-on experience** in construction sit
 * **Diploma in Civil Engineering**
   Nitte Meenakshi Institute of Technology
 
-> 🔹 *Year of completion and grades can be added later.*
-
 ---
 
 ## 📄 Certifications & Training (Sample)
@@ -100,9 +94,3 @@ I am a **Site Engineer with 3 years of hands-on experience** in construction sit
 ## 🚀 Career Objective
 
 To work as a Site Engineer where I can utilize my practical experience, technical knowledge, and leadership skills to contribute to high-quality construction projects while continuously learning and growing in the civil engineering field.
-
-> 🔹 *This objective section is fully customizable.*
-
----
-
-⭐ *This README is designed to be professional, clean, and portfolio-ready. You can freely edit sections marked as samples.*
