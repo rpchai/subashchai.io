@@ -1,4 +1,4 @@
-# 👷‍♂️ Subash Chai — Site Engineer
+# 👷‍♂️Site Engineer
 
 📍 **Bhairahawa, Nepal**
 🎂 **Age:** 28
