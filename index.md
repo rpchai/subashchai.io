@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="left">
-  <img src="{{ site.logo | relative_url }}" width="200">
+  <img src="{{ sc.jpg }}" width="200">
 </p>
 
 ## SUBASH CHAI
