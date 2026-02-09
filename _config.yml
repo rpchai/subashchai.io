@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: SUBASH CHAI
-logo: https://github.com/rpchai/subashchai.io/blob/main/sc.jpg
+logo: /sc.jpg
 description: Site Engineer with experience in supervising construction activities, monitoring daily progress, and ensuring work completion as per approved drawings and schedules. Skilled in coordinating labor, materials, and contractors to maintain quality and safety at the site.
