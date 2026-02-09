@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p align="left">
-  <img src="{{ sc.jpg }}" width="200">
+  <img src="{{ https://github.com/rpchai/subashchai.io/blob/main/sc.jpg }}" width="200">
 </p>
 
 ## SUBASH CHAI
