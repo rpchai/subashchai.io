@@ -1,4 +1,4 @@
-![Subash Chai] (https://github.com/rpchai/subashchai.io/blob/main/sc.jpg)
+![Subash Chai](https://github.com/rpchai/subashchai.io/blob/main/sc.jpg)
 
 SITE ENGINEER
 
